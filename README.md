@@ -1,23 +1,16 @@
 # 🌍 Tourisphere AI
-### AI-Powered Global Travel Intelligence Platform
 
-<p align="center">
-  <b>Transforming Travel with Artificial Intelligence, Machine Learning, Analytics, and Intelligent Recommendations.</b>
-</p>
+> **AI-Powered Global Travel Intelligence Platform**
 
----
+Tourisphere AI is an AI-powered travel intelligence platform designed to deliver personalized travel experiences through Artificial Intelligence, Machine Learning, Data Analytics, and intelligent recommendation systems.
 
-## 📖 Project Overview
+The goal of this platform is to evolve into a complete travel ecosystem that assists users in discovering destinations, planning trips, analyzing travel preferences, forecasting tourism trends, and providing AI-powered travel assistance.
 
-Tourisphere AI is an AI-powered Global Travel Intelligence Platform designed to help users discover personalized travel destinations based on their preferences, budget, interests, travel style, season, and real-time travel information.
-
-Unlike a traditional travel website, Tourisphere AI aims to become an intelligent travel companion by integrating Artificial Intelligence, Machine Learning, Predictive Analytics, Recommendation Systems, User Analytics, and Generative AI technologies into a single platform.
-
-The platform is currently under active development and is being built as a scalable product with multiple AI-powered modules.
+> 🚧 **Project Status:** This project is currently under active development.
 
 ---
 
-# 🚀 Current Development Status
+# 🚀 Current Progress
 
 ## ✅ Completed
 
@@ -34,24 +27,24 @@ The platform is currently under active development and is being built as a scala
 
 ---
 
-# 🛣 Development Roadmap
+# 🛣️ Development Roadmap
 
 | Phase | Module | Status |
-|--------|--------|--------|
+|--------|-------------------------------|---------|
 | Phase 1 | Foundation | ✅ Completed |
 | Phase 2 | Dynamic Destinations | ✅ Completed |
 | Phase 3 | Dynamic Images | ✅ Completed |
 | Phase 4 | Live Weather | ✅ Completed |
 | Phase 5 | User Analytics & Travel History | 🚧 In Progress |
 | Phase 6 | Authentication | ⏳ Planned |
-| Phase 7 | Food & Restaurant Recommendations | ⏳ Planned |
-| Phase 8 | Hotel Recommendations | ⏳ Planned |
-| Phase 9 | Transport Services | ⏳ Planned |
-| Phase 10 | Lifestyle Recommendations | ⏳ Planned |
-| Phase 11 | Education Insights | ⏳ Planned |
-| Phase 12 | Relocation Assistance | ⏳ Planned |
+| Phase 7 | Food & Restaurant | ⏳ Planned |
+| Phase 8 | Hotels | ⏳ Planned |
+| Phase 9 | Transport | ⏳ Planned |
+| Phase 10 | Lifestyle | ⏳ Planned |
+| Phase 11 | Education | ⏳ Planned |
+| Phase 12 | Relocation | ⏳ Planned |
 | Phase 13 | AI Recommendation Engine | ⏳ Planned |
-| Phase 14 | Travel Forecasting | ⏳ Planned |
+| Phase 14 | Forecasting | ⏳ Planned |
 | Phase 15 | User Segmentation | ⏳ Planned |
 | Phase 16 | Sentiment Analysis | ⏳ Planned |
 | Phase 17 | RAG AI Assistant | ⏳ Planned |
@@ -65,52 +58,48 @@ The platform is currently under active development and is being built as a scala
 
 # ✨ Current Features
 
-- 🌍 Global Destination Discovery
-- 🔎 Dynamic Search & Filtering
+- 🌍 Global Destination Recommendation
+- 🔎 Intelligent Search & Filtering
 - 📸 Dynamic Destination Images
-- 🌦 Live Weather Information
-- 🎯 User Preference Based Recommendation
-- 📊 Interactive User Interface
-- 📱 Responsive Design
+- 🌦️ Live Weather Information
+- 🎯 Preference-Based Recommendations
+- 📱 Responsive User Interface
 
 ---
 
-# 🤖 AI, Machine Learning & Data Science Concepts
+# 🤖 AI, Machine Learning & Data Science
 
-This project incorporates or is planned to incorporate the following concepts:
-
-### Artificial Intelligence
+## Artificial Intelligence
 - Intelligent Travel Recommendation
-- AI-assisted Trip Planning *(Planned)*
+- AI-assisted Travel Planning *(Planned)*
 
-### Machine Learning
+## Machine Learning
 - Personalized Recommendation System
-- User Behaviour Analysis
+- User Behaviour Analytics
 - Predictive Analytics *(Planned)*
 
-### Deep Learning *(Future Scope)*
+## Deep Learning *(Future Scope)*
 - Deep Learning-based Recommendation Models
 - Intelligent Preference Learning
 
-### Data Science
+## Data Science & Analytics
 - User Analytics
 - Travel Analytics
 - Tourism Data Analysis
 - Data Visualization
 
-### Advanced AI
+## Advanced AI *(Planned)*
 - Forecasting
-- Customer Segmentation
+- User Segmentation
 - Sentiment Analysis
 - Retrieval-Augmented Generation (RAG)
 - Large Language Model (LLM) Integration
 
 ---
 
-# 🛠 Technology Stack
+# 🛠️ Technology Stack
 
 ## Frontend
-
 - React.js
 - JavaScript
 - HTML5
@@ -118,22 +107,18 @@ This project incorporates or is planned to incorporate the following concepts:
 - Tailwind CSS
 
 ## Backend
-
 - Python
 - FastAPI
 - REST APIs
 
 ## Database
-
 - MongoDB
 
 ## APIs
-
 - Weather API
-- Dynamic Image API
+- Image API
 
 ## Development Tools
-
 - Git
 - GitHub
 - VS Code
@@ -145,21 +130,13 @@ This project incorporates or is planned to incorporate the following concepts:
 ```
 Tourisphere-AI
 │
-├── frontend
-│   ├── src
-│   ├── public
-│   ├── package.json
-│   └── ...
-│
-├── backend
-│   ├── app
-│   │   ├── database
-│   │   ├── routes
-│   │   ├── services
-│   │   ├── main.py
-│   │   └── seed_data.py
-│   │
-│   └── requirements.txt
+├── frontend/
+├── backend/
+│   ├── app/
+│   ├── database/
+│   ├── routes/
+│   ├── services/
+│   └── main.py
 │
 └── README.md
 ```
@@ -168,7 +145,7 @@ Tourisphere-AI
 
 # 🎯 Vision
 
-To build a next-generation AI-powered travel ecosystem capable of assisting users throughout their travel journey—from destination discovery and itinerary planning to intelligent recommendations, analytics, forecasting, budgeting, and travel assistance.
+To build a scalable AI-powered travel platform that combines recommendation systems, predictive analytics, user behaviour analysis, intelligent planning, and tourism intelligence into one unified ecosystem.
 
 ---
 
@@ -181,42 +158,44 @@ To build a next-generation AI-powered travel ecosystem capable of assisting user
 - Sentiment Analysis
 - User Segmentation
 - Government Tourism Analytics Dashboard
-- Expense Tracking
 - Booking System
+- Expense Tracking
 - Multi-language Support
-- RAG-based AI Travel Assistant
+- RAG AI Assistant
 
 ---
 
-# 📸 Screenshots
+# ⚙️ Installation
 
-Screenshots will be added as the project development progresses.
-
----
-
-# ⚙ Installation
-
-## Clone the Repository
+### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Tourisphere-AI.git
+git clone https://github.com/YOUR_GITHUB_USERNAME/Tourisphere-AI.git
 ```
 
-## Frontend
+### Frontend
 
 ```bash
 cd frontend
 npm install
-npm run dev
+npm start
 ```
 
-## Backend
+### Backend
 
 ```bash
 cd backend
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
+
+---
+
+# 🤝 Contributing
+
+Contributions, ideas, bug reports, and feature suggestions are welcome.
+
+If you'd like to contribute, please fork the repository and submit a pull request.
 
 ---
 
@@ -230,15 +209,16 @@ Passionate about Artificial Intelligence, Machine Learning, Data Science, and In
 
 ---
 
-# ⭐ Project Status
+# ⭐ Support
 
-🚧 **This project is currently under active development.**
+If you find this project useful, consider giving it a ⭐ on GitHub.
 
-New features, AI modules, and analytics capabilities are continuously being added as part of the product roadmap.
+It motivates continued development and future enhancements.
 
 ---
 
-## 📜 License
+# 📌 Project Status
 
-This project is intended for educational, research, and portfolio purposes.
+🚧 **This repository is under active development.**
 
+New features and AI modules are continuously being added as part of the product roadmap.
